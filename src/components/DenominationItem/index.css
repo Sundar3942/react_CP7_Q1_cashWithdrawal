@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.denominationButton {
+  background-color: #585076;
+  color: #d4d2db;
+  border: 1px solid #d4d2db;
+  border-radius: 10px;
+  width: 160px;
+  height: 30px;
+  margin-bottom: 10px;
+}
